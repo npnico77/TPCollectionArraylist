@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPCollectionArraylist", "TPCollectionArraylist\TPCollectionArraylist.csproj", "{173D867C-60AB-4280-B5C0-C4E2A8D3EAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173D867C-60AB-4280-B5C0-C4E2A8D3EAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173D867C-60AB-4280-B5C0-C4E2A8D3EAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173D867C-60AB-4280-B5C0-C4E2A8D3EAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173D867C-60AB-4280-B5C0-C4E2A8D3EAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E04AEB3-C4F0-4C09-B569-DC8C8B09DE4C}
+	EndGlobalSection
+EndGlobal
